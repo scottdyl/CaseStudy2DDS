@@ -5,7 +5,7 @@ date: "4/6/2021"
 output: html_document
 ---
 ## Youtube link
-<a href="https://youtu.be/Y9-0hh8LNzg"> Dylan's Case study 2 Video </a>
+<a href=""> Dylan's Case study 2 Video </a>
 
 ## Project Overview
 
